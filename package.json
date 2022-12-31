@@ -1,0 +1,15 @@
+{
+  "name": "prisoner-svg-png",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "convert": "node index.js"
+  },
+  "author": "piesrtasty",
+  "license": "ISC",
+  "dependencies": {
+    "sharp": "^0.31.3",
+    "svg-parser": "^2.0.4"
+  }
+}
