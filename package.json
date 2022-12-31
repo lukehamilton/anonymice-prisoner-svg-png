@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "convert": "node index.js"
+    "convert-prisoner": "node index.js"
   },
   "author": "piesrtasty",
   "license": "ISC",
